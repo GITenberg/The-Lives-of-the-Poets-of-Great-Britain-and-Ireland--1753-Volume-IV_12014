@@ -1,5 +1,8 @@
 _repo: The-Lives-of-the-Poets-of-Great-Britain-and-Ireland--1753-Volume-IV_12014
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cibber, Theophilus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3592
     wikipedia: http://en.wikipedia.org/wiki/Theophilus_Cibber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12014#The-Lives-of-the-Poets-of-Great-Britain-and-Ireland--1753-Volume-IV
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
